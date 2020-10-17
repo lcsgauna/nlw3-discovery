@@ -64,7 +64,7 @@ a.create-orphanage:hover {
     margin: .8rem 1.2rem;
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
 .leaflet-popup-content a {
